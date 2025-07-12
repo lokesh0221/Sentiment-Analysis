@@ -113,13 +113,7 @@ query {
 - ✅ CORS configured
 - ✅ Model auto-reloads from ./model if present
 
----
 
-## 📧 Contact
-
-Developed with ❤️ by Team Electronix AI
-
-For queries: [your-email@example.com]
 
 ---
 
